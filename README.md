@@ -1,2 +1,2 @@
-# Problema-da-mochila
-Tp1 aeds 2017/2
+# knapsack problem
+A heuristic for solve the knapsack problem.
